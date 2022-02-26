@@ -1,30 +1,57 @@
+<h4 align="center">
+    <img align="right" alt="Felipe-imagem" height="800" style="border-radius:50px;" src=https://i.pinimg.com/originals/89/74/34/897434458648858b690f487c3149ef6a.gif
+<hr>
+ 
+  ...
 <h3 align="center">Olá Tudo bem? Eu sou o Felipe</i></a>🐺</h3>
+
+ </div>
+
+  #
+<div> 
+   
   
-😎 Atualmente estou participando do Boot Camp Generation voltado para Full Stack Java Junior
-
-👀 Estou interessado em Java e Python
-
-🌱 Estou aprendendo Java
-
-
-<div align="center">
-  <a href="https://github.com/FelipeJobs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeJobs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJobs&layout=compact&langs_count=7&theme=merko"/>
-    
-   </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Felipe-Java" height="70" width="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="right" alt="Felipe-imagem" height="200" style="border-radius:50px;" src=https://pa1.narvii.com/7052/de61a25c9f13fdae1d5ac2ebcddf6947d7731602r1-800-600_hq.gif
-</div>
+  <h3>Redes sociais 👨‍👩‍👧‍👦</h3>
+<div> 
+    <a href = "felipecaluxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lipe-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 
    
   ##
  
 <div> 
-    <a href = "felipecaluxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lipe-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+<h3>Tecnologias que estou estudando atualmente 💻</h3>
+
+  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Felipe-Java" height="70" width="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+</div>
+</div>
+
+  #
+<div> 
+  <h3>Fatos sobre mim</h3>
+
+- Estou participando do Boot Camp Generation voltado para o desenvolvimento do profissional Full Stack Java Junior 💻
+- Adoro conhecer coisas novas, trocar experiências com outras pessoas e futuramente gostaria de abrir minha própria Startup 😍
+- Amo ler
+- Futuramente gostaria de passar uma temporada fora do Brasil, para conhecer novas culturas e aperfeiçoar minhas habilidades tecnológicas.
+  </div>
+   
+  ##
+ 
+<div> 
+
+<div align="center">
+  <a href="https://github.com/FelipeJobs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeJobs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJobs&layout=compact&langs_count=7&theme=merko"/>
+  </div>
+
  
   ![Snake animation](https://github.com/Felipejobs/FelipeJobs/blob/output/github-contribution-grid-snake.svg)
  
