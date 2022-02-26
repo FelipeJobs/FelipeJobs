@@ -16,7 +16,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Felipe-Java" height="70" width="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="right" alt="Felipe-imagem" height="250" style="border-radius:50px;" src=https://pa1.narvii.com/7052/de61a25c9f13fdae1d5ac2ebcddf6947d7731602r1-800-600_hq.gif
+  <img align="right" alt="Felipe-imagem" height="200" style="border-radius:50px;" src=https://pa1.narvii.com/7052/de61a25c9f13fdae1d5ac2ebcddf6947d7731602r1-800-600_hq.gif
 </div>
 
    
