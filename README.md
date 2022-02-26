@@ -38,8 +38,8 @@
 
 - Estou participando do Boot Camp Generation voltado para o desenvolvimento do profissional Full Stack Java Junior 💻
 - Adoro conhecer coisas novas, trocar experiências com outras pessoas e futuramente gostaria de abrir minha própria Startup 😍
-- Amo ler
-- Futuramente gostaria de passar uma temporada fora do Brasil, para conhecer novas culturas e aperfeiçoar minhas habilidades tecnológicas.
+- Amo ler 📙
+- Futuramente gostaria de passar uma temporada fora do Brasil, para conhecer novas culturas e aperfeiçoar minhas habilidades tecnológicas 🌍
   </div>
    
   ##
@@ -48,8 +48,8 @@
 
 <div align="center">
   <a href="https://github.com/FelipeJobs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeJobs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJobs&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeJobs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJobs&layout=compact&langs_count=7&theme=merko"/>
   </div>
 
  
