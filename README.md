@@ -32,6 +32,8 @@
 </div>
 </div>
 
+
+
   #
 <div> 
   <h3>Fatos sobre mim</h3>
@@ -51,7 +53,10 @@
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=FelipeJobs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJobs&layout=compact&langs_count=7&theme=merko"/>
   </div>
-
+   <h3>Total de visitas no meu perfil :detective:</h3>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/FelipeJobs/count.svg" />
+ </p>
  
   ![Snake animation](https://github.com/Felipejobs/FelipeJobs/blob/output/github-contribution-grid-snake.svg)
  
