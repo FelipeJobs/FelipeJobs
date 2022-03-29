@@ -2,7 +2,7 @@
     <img align="right" alt="Felipe-imagem" height="800" style="border-radius:50px;" src=https://i.pinimg.com/originals/89/74/34/897434458648858b690f487c3149ef6a.gif
 <hr>
  
-  ...
+  
 <h3 align="center">Olá Tudo bem? Eu sou o Felipe</i></a>🐺</h3>
 
  </div>
