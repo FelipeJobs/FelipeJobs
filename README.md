@@ -4,8 +4,8 @@
 
 <div>
   
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipejobs&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipejobs&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Felipejobs&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipejobs&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Felipejobs&bg_color=0d1117&color=7FFFD4&line=9400D3&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
