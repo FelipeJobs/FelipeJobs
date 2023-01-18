@@ -6,6 +6,8 @@
 
 ![comitts](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Felipejobs&theme=nord_dark)
 
+![Status](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Felipejobs&theme=nord_dark)
+
 
 
 
