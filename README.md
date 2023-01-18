@@ -9,7 +9,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Felipejobs&bg_color=0d1117&color=7FFFD4&line=9400D3&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h1 align="center">Conquistas color = ''blue</h1>
+<h1 align="center",textcolor = 'blue'>Conquistas</h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Felipejobs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
