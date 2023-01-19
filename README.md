@@ -26,10 +26,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Felipejobs}/count.svg" /></p> 
-<br>
-</div>
+ <h3>Total de visitas no meu perfil :detective:</h3>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/FelipeJobs/count.svg" />
+ </p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
