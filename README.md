@@ -25,15 +25,18 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
+ 
+<h4 align = "center">Studying in this moment<h4/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
+![DJango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117&textColor=0D1117)&nbsp;
 
  <h4 align = "center">Total de visitas no meu perfil :detective:</h4>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/FelipeJobs/count.svg" />
  </p>
   
-
 ![Snake animation](https://github.com/Felipejobs/FelipeJobs/blob/output/github-contribution-grid-snake.svg)
  
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
