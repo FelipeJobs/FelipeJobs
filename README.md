@@ -26,7 +26,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
 
- <h3>Total de visitas no meu perfil :detective:</h3>
+ <h2 align = "center">Total de visitas no meu perfil :detective:</h2>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/FelipeJobs/count.svg" />
  </p>
