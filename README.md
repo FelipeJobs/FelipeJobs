@@ -10,7 +10,7 @@
 
 [![Gráfico](https://github-readme-activity-graph.cyclic.app/graph?username=Felipejobs&bg_color=0d1117&color=7FFFD4&line=9400D3&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2 align = "center"> Troféus<h2/>
+<h4 align = "center"> Troféus<h4/>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Felipejobs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -26,10 +26,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
 
- <h2 align = "center">Total de visitas no meu perfil :detective:</h2>
+ <h4 align = "center">Total de visitas no meu perfil :detective:</h4>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/FelipeJobs/count.svg" />
  </p>
-
+  
+ <div>
+![Snake animation](https://github.com/Felipejobs/FelipeJobs/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
